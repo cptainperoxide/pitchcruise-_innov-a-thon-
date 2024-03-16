@@ -7,6 +7,7 @@ It is a comprehensive online platform designed to bridge the gap between compani
 ## Technologies used:
 - Html
 - Css
+- JavaScript
 - Canva
 
 ## Future implementation:
