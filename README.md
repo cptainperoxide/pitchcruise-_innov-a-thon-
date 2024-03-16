@@ -1,7 +1,7 @@
 # PitchCruise
 
 ## Description
-- What our application does?
+### What our application does?
 It is a comprehensive online platform designed to bridge the gap between companies seeking investment, investors looking for opportunities, and small businesses in need of guidance to scale and succeed.
 
 ## Technologies used:
